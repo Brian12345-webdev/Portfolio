@@ -4,5 +4,43 @@ root{
 
 header{
 display: flex;
-background-color: rgb(71, 129, 222);
+background-color: #85a0f2;
+}
+
+.content{
+    background-color: #85a0f2;
+}
+
+.article{
+    flex-wrap: wrap;
+    border-radius: 25%;
+    border-color: aliceblue solid;
+    background-color: rgb(192, 216, 237);
+}
+
+body{
+flex-wrap: wrap;
+}
+
+footer{
+text-align: center;
+background-color: #85a0f2;
+}
+
+@media screen and (max-width:992px) {
+    header, body{
+        background: #85a0f2;
+    }
+}
+
+@media screen and (max-width:768px) {
+    header, body{
+        background: #2759ee;
+    }
+}
+
+@media screen and (max-width:575p) {
+    header, body{
+        background: #2759ee;
+    }
 }
