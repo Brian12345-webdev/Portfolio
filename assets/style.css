@@ -2,6 +2,7 @@ root{
     background-color: aqua;
 }
 
-.header{
+header{
 display: flex;
+background-color: rgb(71, 129, 222);
 }
