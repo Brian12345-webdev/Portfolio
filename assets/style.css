@@ -20,6 +20,11 @@ height: 100%;
     margin-right: auto;
     text-align: center;
 }
+
+.hero-image{
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/rustic-weathered-wood-logs-royalty-free-image-1654709658.jpg);
+}
+
 h2, button {
     text-align: center;
     font-size: 20px;
@@ -42,7 +47,7 @@ h2, button {
 }
 
 .topnav {
-    float: right;
+    float: inline-end;
     color: rgb(219, 207, 207);
     text-align: auto;
     width: 300px;
