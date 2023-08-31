@@ -14,3 +14,11 @@ THE SOLUTION is a portfolio that provides all information an employer needs to m
 
 ## DESCRIPTION
 THIS SITE is a chronological description of my experiences, skills, and projects. This site includes links to my professional resume and projects with the added scheme that elucidates for hiring employers my thinking processes when building applications.
+
+## PORTFOLIO ACCESS
+Live Site:
+https://brian12345-webdev.github.io/Portfolio/
+GitHub Repo:
+https://github.com/Brian12345-webdev/Portfolio
+
+![Alt text](image.png)
